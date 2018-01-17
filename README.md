@@ -2,17 +2,37 @@
 
 ## SCITODATE
 
-Status: March 2016 - ongoing
+Status: Mar 2016 - ongoing
 
 This is my main priority, and my job now. The vision for SCITODATE is to collect, index and analyze large collections of academic articles to extract global business and science insight.
 
+## Bonobo
+
+Status: Jan 2017 - ongoing
+
+Bonobo is a lightweight ETL framework that I very much like, I would love to use it in my day-to-day work. However, there's a dealbreaker: there's no way to do parallel processing with it. I have decided to implement it myself.
+
+## Quantum Computing
+
+Status: Dec 2017 - inactive
+
+The field has always intreagued me. I have a good foundation already, but I want to learn more. My goal is to learn the current state of "quantum programming" and to answer key questions, like what exactly makes quantum computing superior, and what kinds of algorithms can be accelerated with it. This is a more theoretical project, so the end product will be a post explaining my learnings, or a series of them.
+
 ## Numer.ai
 
-Status: November 2017 - ongoing
+Status: Nov 2017 - inactive
 
 Numer.ai is a unique machine learning competition on stock prediction. However, the stock data is highly offuscated, to the point where the competition is a pure machine learning task, with ~50 features and simple binary classification. It is also unique in that not only the few top people get a reward, thanks to their meta-model architecture and use of cryptocurrency.
 
 Anyways, I've been always intreagued of the idea of making a pure "money making machine". I have also never participated in a ML competition or worked on a simple and pure ML task. So I chose Numer.ai.
+
+## Choice of Games + Alexa
+
+I want to develop an Alexa front-end for Choice of Games. These games are very simple, mostly just text and decisions, with some basic JS business logic and a bare-bones HTML front-end, it's all in GitHub. Alexa skills are developed with Javascript, so it seems feasible to link both.
+
+## Luna
+
+I've been waiting for luna-lang to release for a long time. I've always been interested in visual programming and this project has the potential to actually break through. However, the first big release doesn't include multi language interoperability and it looks like only Haskell, C and Javascript interoperability are planned. Bummer... I really wanted to use it with Python. The first step is to learn the language. I may consider implementing Python interoperability myself, but it may be too ambitious of me.
 
 ## Research visualizer
 
