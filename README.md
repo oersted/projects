@@ -8,7 +8,7 @@ This is my main priority, and my job now. The vision for SCITODATE is to collect
 
 ## Bonobo
 
-Status: Jan 2017 - ongoing
+Status: Jan 2017 - inactive
 
 Bonobo is a lightweight ETL framework that I very much like, I would love to use it in my day-to-day work. However, there's a dealbreaker: there's no way to do parallel processing with it. I have decided to implement it myself.
 
