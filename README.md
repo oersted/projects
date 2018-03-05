@@ -56,6 +56,8 @@ I've wanted to learn Scala for a while. I've read the documentation, but I forge
 
 I have a good base of classical Machine Learning and I am decently updated on the progress of Deep Learning, but Reinforcement Learning has escaped my eye. I want to get into it, probably by watching an introductory lecture first, there's plenty of very good ones around. I am not so interested in movement agents that act in physical simulations such as games, even if they seem to be the main focus of the field. I've never been too interested in robotics and it extends to this area too. However, I am rather interested in applying RL to NLP and in keeping on top of the first steps that are being done towards General Inteligence, where they train RL agents to interact with the environment through text, like a chat bot or a player of Interactive Fiction games.
 
+**Edit:** [This](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI) popped up in my inbox a few weeks back. Actually, automatic crypto traiding might also be an interesting topic to get into. This very much ties into my "money making machine" project.
+
 ## Text based game
 
 Now and then I get really excited about this and then I abondon it. This is a very ambitious project with revatively low return, but I love it.
