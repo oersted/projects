@@ -48,6 +48,9 @@ Key features:
 * Visual organization with clusters by topic and reference edges.
 * One of the main axis should be time, the year of publication is very relevant.
 
+Could use this as a base: https://github.com/TobLoef/text2mindmap
+It would be enough to add hierarchy (a node links to another graph, zoom) and proper markdown support.
+
 ## Something with Scala
 
 I've wanted to learn Scala for a while. I've read the documentation, but I forget about it, so I need a self contained project that motivates me to use Scala and dig deeper. I don't know what I will make, but making a DNS server keeps popping into my mind for some reason.
