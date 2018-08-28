@@ -78,3 +78,15 @@ Most importantly, I want this game to be collaborative. I need it to be so, for 
 ## Fast N-gram index
 
 Implement a fast in-memory N-gram index, as I cannot find one already implemented. I will probably make it with Cython. The obvious application is to perform fast fuzzy matching on a predetermined set of strings.
+
+## Get into Cryptocurrency Arbitrage
+
+I've previously thought about getting into crypto trading from a Deep Learning standpoint, which I'm more familiar with. But arbitrage actually sounds more approachable, and fun, to start with. Just find a market with a good API and start prototyping something.
+
+https://blog.evjang.com/2018/08/dijkstras.html
+
+## Command line performance monitoring dashboard
+
+It is so often that I find myself with a dozen terminals open while diagnosing bottlnecks of large-scale data engineering processes. htop, iotop, nethogs, slurm, top (for usr/kernel/idle/wait numbers), a couple of watch commands to monitor file sizes and directories, the progress bar of the process... I'm a fan of netdata, but setup is not trivial, it is web based, it is lacking on single process stats and it is not build to have all relevant metrics in front of you at the same time.
+
+I just want to build a simple command line dashboard like htop or slurm with all (most) the relevant metrics to diagnose bottlenecks in front of you (Network, Disk I/O, CPU, Memory, File cache, Swap, heavy malloc/free/gc...). Just on a single machine is enough for this project, not on a cluster. It will be a fun exercise in command line UI.
