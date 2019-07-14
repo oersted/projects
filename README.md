@@ -63,7 +63,7 @@ I have a good base of classical Machine Learning and I am decently updated on th
 
 ## Text based game
 
-Now and then I get really excited about this and then I abondon it. This is a very ambitious project with revatively low return, but I love it.
+Now and then I get really excited about this and then I abandon it. This is a very ambitious project with revatively low return, but I love it.
 
 From Dwarf Fortress and Cataclysim we know that not having graphics (or really simple graphics) enables the creation of incredibly deep and complex games. It is simply much cheaper to add features so these games achieve a state where the developer has thought of every possible interaction, which makes these sandbox games, ironically, feel really life-like and bottomless, despite the lack of proper graphics.
 
